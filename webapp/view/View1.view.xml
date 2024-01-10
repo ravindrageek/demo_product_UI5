@@ -25,7 +25,7 @@
                        items="{products>/Products}"
                        mode="SingleSelectMaster"
                        selectionChange="onSelectionChange"
-                       growing="true" growingThreshold="15"
+                       growing="true" growingThreshold="16"
                    >
                        <columns>
                            <Column id="c1">
